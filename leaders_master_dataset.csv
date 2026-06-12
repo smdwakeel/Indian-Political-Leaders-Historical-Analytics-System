@@ -1,0 +1,155 @@
+leader_id,leader_name,position,start_year,end_year,tenure_years,state_name,gender,status
+1,Rajendra Prasad,President,1950,1962,12,Bihar,Male,Completed
+2,Sarvepalli Radhakrishnan,President,1962,1967,5,Andhra Pradesh,Male,Completed
+3,Zakir Husain,President,1967,1969,2,Telangana,Male,Completed
+4,V. V. Giri,President,1969,1974,5,Odisha,Male,Completed
+5,Fakhruddin Ali Ahmed,President,1974,1977,3,Assam,Male,Completed
+6,Neelam Sanjiva Reddy,President,1977,1982,5,Andhra Pradesh,Male,Completed
+7,Giani Zail Singh,President,1982,1987,5,Punjab,Male,Completed
+8,R. Venkataraman,President,1987,1992,5,Tamil Nadu,Male,Completed
+9,Shankar Dayal Sharma,President,1992,1997,5,Madhya Pradesh,Male,Completed
+10,K. R. Narayanan,President,1997,2002,5,Kerala,Male,Completed
+11,A. P. J. Abdul Kalam,President,2002,2007,5,Tamil Nadu,Male,Completed
+12,Pratibha Patil,President,2007,2012,5,Maharashtra,Female,Completed
+13,Pranab Mukherjee,President,2012,2017,5,West Bengal,Male,Completed
+14,Ram Nath Kovind,President,2017,2022,5,Uttar Pradesh,Male,Completed
+15,Droupadi Murmu,President,2022,Present,4,Odisha,Female,Active
+1,Sarvepalli Radhakrishnan,Vice President,1952,1962,10,Andhra Pradesh,Male,Completed
+2,Zakir Husain,Vice President,1962,1967,5,Telangana,Male,Completed
+3,Varahagiri Venkata Giri,Vice President,1967,1969,2,Odisha,Male,Completed
+4,Gopal Swarup Pathak,Vice President,1969,1974,5,Uttar Pradesh,Male,Completed
+5,Basappa Danappa Jatti,Vice President,1974,1979,5,Karnataka,Male,Completed
+6,Mohammad Hidayatullah,Vice President,1979,1984,5,Madhya Pradesh,Male,Completed
+7,Ramaswamy Venkataraman,Vice President,1984,1987,3,Tamil Nadu,Male,Completed
+8,Shankar Dayal Sharma,Vice President,1987,1992,5,Madhya Pradesh,Male,Completed
+9,K. R. Narayanan,Vice President,1992,1997,5,Kerala,Male,Completed
+10,Krishan Kant,Vice President,1997,2002,5,Punjab,Male,Completed
+11,Bhairon Singh Shekhawat,Vice President,2002,2007,5,Rajasthan,Male,Completed
+12,Mohammad Hamid Ansari,Vice President,2007,2017,10,Uttar Pradesh,Male,Completed
+13,M. Venkaiah Naidu,Vice President,2017,2022,5,Andhra Pradesh,Male,Completed
+14,Jagdeep Dhankhar,Vice President,2022,Present,4,Rajasthan,Male,Active
+1,Jawaharlal Nehru,Prime Minister,1947,1964,17,Uttar Pradesh,Female,Completed
+2,Gulzarilal Nanda,Prime Minister,1964,1964,0,Gujarat,Male,Completed
+3,Lal Bahadur Shastri,Prime Minister,1964,1966,2,Uttar Pradesh,Male,Completed
+4,Gulzarilal Nanda,Prime Minister,1966,1966,0,Gujarat,Male,Completed
+5,Indira Gandhi,Prime Minister,1966,1977,11,Uttar Pradesh,Female,Completed
+6,Morarji Desai,Prime Minister,1977,1979,2,Gujarat,Male,Completed
+7,Charan Singh,Prime Minister,1979,1980,1,Uttar Pradesh,Male,Completed
+8,Indira Gandhi,Prime Minister,1980,1984,4,Uttar Pradesh,Female,Completed
+9,Rajiv Gandhi,Prime Minister,1984,1989,5,Delhi,Male,Completed
+10,V. P. Singh,Prime Minister,1989,1990,1,Uttar Pradesh,Male,Completed
+11,Chandra Shekhar,Prime Minister,1990,1991,1,Uttar Pradesh,Male,Completed
+12,P. V. Narasimha Rao,Prime Minister,1991,1996,5,Telangana,Male,Completed
+13,Atal Bihari Vajpayee,Prime Minister,1996,1996,0,Madhya Pradesh,Male,Completed
+14,H. D. Deve Gowda,Prime Minister,1996,1997,1,Karnataka,Male,Completed
+15,I. K. Gujral,Prime Minister,1997,1998,1,Punjab,Male,Completed
+16,Atal Bihari Vajpayee,Prime Minister,1998,2004,6,Madhya Pradesh,Male,Completed
+17,Manmohan Singh,Prime Minister,2004,2014,10,Punjab,Male,Completed
+18,Narendra Modi,Prime Minister,2014,Present,12,Gujarat,Male,Active
+1,H. J. Kania,Chief Justice of India,1950,1951,1,Gujarat,Male,Completed
+2,M. Patanjali Sastri,Chief Justice of India,1951,1954,3,Tamil Nadu,Male,Completed
+3,Mehr Chand Mahajan,Chief Justice of India,1954,1954,0,Punjab,Male,Completed
+4,B. K. Mukherjea,Chief Justice of India,1954,1956,2,West Bengal,Male,Completed
+5,S. R. Das,Chief Justice of India,1956,1959,3,West Bengal,Male,Completed
+6,Bhuvneshwar Prasad Sinha,Chief Justice of India,1959,1964,5,Bihar,Male,Completed
+7,P. B. Gajendragadkar,Chief Justice of India,1964,1966,2,Maharashtra,Male,Completed
+8,A. K. Sarkar,Chief Justice of India,1966,1966,0,West Bengal,Male,Completed
+9,K. Subba Rao,Chief Justice of India,1966,1967,1,Andhra Pradesh,Male,Completed
+10,K. N. Wanchoo,Chief Justice of India,1967,1968,1,Rajasthan,Male,Completed
+11,M. Hidayatullah,Chief Justice of India,1968,1970,2,Madhya Pradesh,Male,Completed
+12,J. C. Shah,Chief Justice of India,1970,1971,1,Gujarat,Male,Completed
+13,S. M. Sikri,Chief Justice of India,1971,1973,2,Punjab,Male,Completed
+14,A. N. Ray,Chief Justice of India,1973,1977,4,West Bengal,Male,Completed
+15,M. H. Beg,Chief Justice of India,1977,1978,1,Uttar Pradesh,Male,Completed
+16,Y. V. Chandrachud,Chief Justice of India,1978,1985,7,Maharashtra,Male,Completed
+17,P. N. Bhagwati,Chief Justice of India,1985,1986,1,Gujarat,Male,Completed
+18,R. S. Pathak,Chief Justice of India,1986,1989,3,Uttar Pradesh,Male,Completed
+19,E. S. Venkataramiah,Chief Justice of India,1989,1989,0,Karnataka,Male,Completed
+20,Sabyasachi Mukharji,Chief Justice of India,1989,1990,1,West Bengal,Male,Completed
+21,Ranganath Misra,Chief Justice of India,1990,1991,1,Odisha,Male,Completed
+22,Kamal Narain Singh,Chief Justice of India,1991,1991,0,Uttar Pradesh,Male,Completed
+23,M. H. Kania,Chief Justice of India,1991,1992,1,Maharashtra,Male,Completed
+24,L. M. Sharma,Chief Justice of India,1992,1993,1,Rajasthan,Male,Completed
+25,M. N. Venkatachaliah,Chief Justice of India,1993,1994,1,Karnataka,Male,Completed
+26,A. M. Ahmadi,Chief Justice of India,1994,1997,3,Gujarat,Male,Completed
+27,J. S. Verma,Chief Justice of India,1997,1998,1,Madhya Pradesh,Male,Completed
+28,M. M. Punchhi,Chief Justice of India,1998,1998,0,Jammu & Kashmir,Male,Completed
+29,A. S. Anand,Chief Justice of India,1998,2001,3,Jammu & Kashmir,Male,Completed
+30,S. P. Bharucha,Chief Justice of India,2001,2002,1,Maharashtra,Male,Completed
+31,B. N. Kirpal,Chief Justice of India,2002,2002,0,Delhi,Male,Completed
+32,G. B. Pattanaik,Chief Justice of India,2002,2002,0,Odisha,Male,Completed
+33,V. N. Khare,Chief Justice of India,2002,2004,2,Uttar Pradesh,Male,Completed
+34,S. Rajendra Babu,Chief Justice of India,2004,2004,0,Karnataka,Male,Completed
+35,R. C. Lahoti,Chief Justice of India,2004,2005,1,Rajasthan,Male,Completed
+36,Y. K. Sabharwal,Chief Justice of India,2005,2007,2,Delhi,Male,Completed
+37,K. G. Balakrishnan,Chief Justice of India,2007,2010,3,Kerala,Male,Completed
+38,S. H. Kapadia,Chief Justice of India,2010,2012,2,Maharashtra,Male,Completed
+39,Altamas Kabir,Chief Justice of India,2012,2013,1,West Bengal,Male,Completed
+40,P. Sathasivam,Chief Justice of India,2013,2014,1,Tamil Nadu,Male,Completed
+41,R. M. Lodha,Chief Justice of India,2014,2014,0,Rajasthan,Male,Completed
+42,H. L. Dattu,Chief Justice of India,2014,2015,1,Karnataka,Male,Completed
+43,T. S. Thakur,Chief Justice of India,2015,2017,2,Jammu & Kashmir,Male,Completed
+44,J. S. Khehar,Chief Justice of India,2017,2017,0,Punjab,Male,Completed
+45,Dipak Misra,Chief Justice of India,2017,2018,1,Odisha,Male,Completed
+46,Ranjan Gogoi,Chief Justice of India,2018,2019,1,Assam,Male,Completed
+47,Sharad Arvind Bobde,Chief Justice of India,2019,2021,2,Maharashtra,Male,Completed
+48,N. V. Ramana,Chief Justice of India,2021,2022,1,Andhra Pradesh,Male,Completed
+49,U. U. Lalit,Chief Justice of India,2022,2022,0,Maharashtra,Male,Completed
+50,Dhananjaya Y. Chandrachud,Chief Justice of India,2022,2024,2,Maharashtra,Male,Completed
+51,Sanjiv Khanna,Chief Justice of India,2024,Present,2,Delhi,Male,Active
+1,G. V. Mavalankar,Speaker of Lok Sabha,1952,1956,4,Gujarat,Male,Completed
+2,M. Ananthasayanam Ayyangar,Speaker of Lok Sabha,1956,1962,6,Tamil Nadu,Male,Completed
+3,Sardar Hukam Singh,Speaker of Lok Sabha,1962,1967,5,Punjab,Male,Completed
+4,Neelam Sanjiva Reddy,Speaker of Lok Sabha,1967,1969,2,Andhra Pradesh,Male,Completed
+5,Gurdial Singh Dhillon,Speaker of Lok Sabha,1969,1975,6,Punjab,Male,Completed
+6,Bali Ram Bhagat,Speaker of Lok Sabha,1976,1977,1,Bihar,Male,Completed
+7,K. S. Hegde,Speaker of Lok Sabha,1977,1980,3,Karnataka,Male,Completed
+8,Balram Jakhar,Speaker of Lok Sabha,1980,1989,9,Punjab,Male,Completed
+9,Rabi Ray,Speaker of Lok Sabha,1989,1991,2,Odisha,Male,Completed
+10,Shivraj Patil,Speaker of Lok Sabha,1991,1996,5,Maharashtra,Male,Completed
+11,P. A. Sangma,Speaker of Lok Sabha,1996,1998,2,Meghalaya,Male,Completed
+12,G. M. C. Balayogi,Speaker of Lok Sabha,1998,2002,4,Andhra Pradesh,Male,Completed
+13,Manohar Joshi,Speaker of Lok Sabha,2002,2004,2,Maharashtra,Male,Completed
+14,Somnath Chatterjee,Speaker of Lok Sabha,2004,2009,5,West Bengal,Male,Completed
+15,Meira Kumar,Speaker of Lok Sabha,2009,2014,5,Bihar,Female,Completed
+16,Sumitra Mahajan,Speaker of Lok Sabha,2014,2019,5,Madhya Pradesh,Female,Completed
+17,Om Birla,Speaker of Lok Sabha,2019,Present,7,Rajasthan,Male,Active
+1,C. Rajagopalachari,Chief Minister,1952,1954,2,Tamil Nadu,Male,Completed
+2,K. Kamaraj,Chief Minister,1954,1963,9,Tamil Nadu,Male,Completed
+3,M. Bhakthavatsalam,Chief Minister,1963,1967,4,Tamil Nadu,Male,Completed
+4,C. N. Annadurai,Chief Minister,1967,1969,2,Tamil Nadu,Male,Completed
+5,M. Karunanidhi,Chief Minister,1969,1976,7,Tamil Nadu,Male,Completed
+6,President Rule,Chief Minister,1976,1977,1,Tamil Nadu,Male,Completed
+7,M. G. Ramachandran,Chief Minister,1977,1987,10,Tamil Nadu,Male,Completed
+8,V. N. Janaki Ramachandran,Chief Minister,1988,1988,0,Tamil Nadu,Female,Completed
+9,President Rule,Chief Minister,1988,1989,1,Tamil Nadu,Male,Completed
+10,M. Karunanidhi,Chief Minister,1989,1991,2,Tamil Nadu,Male,Completed
+11,J. Jayalalithaa,Chief Minister,1991,1996,5,Tamil Nadu,Female,Completed
+12,M. Karunanidhi,Chief Minister,1996,2001,5,Tamil Nadu,Male,Completed
+13,J. Jayalalithaa,Chief Minister,2001,2006,5,Tamil Nadu,Female,Completed
+14,M. Karunanidhi,Chief Minister,2006,2011,5,Tamil Nadu,Male,Completed
+15,J. Jayalalithaa,Chief Minister,2011,2014,3,Tamil Nadu,Female,Completed
+16,O. Panneerselvam,Chief Minister,2014,2015,1,Tamil Nadu,Male,Completed
+17,J. Jayalalithaa,Chief Minister,2015,2016,1,Tamil Nadu,Female,Completed
+18,O. Panneerselvam,Chief Minister,2016,2017,1,Tamil Nadu,Male,Completed
+19,Edappadi K. Palaniswami,Chief Minister,2017,2021,4,Tamil Nadu,Male,Completed
+20,M. K. Stalin,Chief Minister,2021,2026,5,Tamil Nadu,Male,Active
+21,C. Joseph Vijay,Chief Minister,2026,Present,0,Tamil Nadu,Male,Active
+1,M. K. Stalin,Deputy Chief Minister,2009,2011,2,Tamil Nadu,Male,Completed
+2,O. Panneerselvam,Deputy Chief Minister,2017,2021,4,Tamil Nadu,Male,Completed
+3,Udhayanidhi Stalin,Deputy Chief Minister,2024,Present,2,Tamil Nadu,Male,Active
+1,Maharaja Krishna Kumarsinhji Bhavsinhji,Governor,1946,1948,2,Tamil Nadu,Male,Completed
+2,Archibald Edward Nye,Governor,1948,1952,4,Tamil Nadu,Male,Completed
+3,Sri Prakasa,Governor,1952,1956,4,Tamil Nadu,Male,Completed
+4,A. J. John,Governor,1956,1964,8,Tamil Nadu,Male,Completed
+5,Sardar Ujjal Singh,Governor,1966,1971,5,Tamil Nadu,Male,Completed
+6,K. K. Shah,Governor,1971,1976,5,Tamil Nadu,Male,Completed
+7,Prabhudas Patwari,Governor,1977,1980,3,Tamil Nadu,Male,Completed
+8,Sundar Lal Khurana,Governor,1982,1988,6,Tamil Nadu,Male,Completed
+9,Surjit Singh Barnala,Governor,1990,2001,11,Tamil Nadu	,Male,Completed
+10,P. S. Ramamohan Rao,Governor,2002,2004,2,Tamil Nadu,Male,Completed
+11,Surjit Singh Barnala,Governor,2004,2011,7,Tamil Nadu,Male,Completed
+12,K. Rosaiah,Governor,2011,2016,5,Tamil Nadu,Male,Completed
+13,C. Vidyasagar Rao,Governor,2016,2017,1,Tamil Nadu,Male,Completed
+14,Banwarilal Purohit,Governor,2017,2021,4,Tamil Nadu,Male,Completed
+15,R. N. Ravi,Governor,2021,Present,5,Tamil Nadu,Male,Active
