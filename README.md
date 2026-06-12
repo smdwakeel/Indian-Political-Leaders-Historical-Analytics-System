@@ -1,1 +1,0 @@
-# Indian-Political-Leaders-Historical-Analytics-System
